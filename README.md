@@ -31,14 +31,10 @@ Fitur-fitur teknis yang diimplementasikan dalam proyek ini meliputi:
 *(Screenshot hasil pengembangan)*
 
 <div align="center">
-  <img src="<img width="815" height="460" alt="Screenshot 2025-12-16 215548" src="https://github.com/user-attachments/assets/b8cddee9-e41e-496e-8bbb-65d64bf41a4b" />
-" width="45%" alt="Gameplay Action" />
-  <img src="<img width="815" height="460" alt="Screenshot 2025-12-16 215548" src="https://github.com/user-attachments/assets/acb97b52-2111-4c52-a25b-1fc1e8eab3fd" />
-" width="45%" alt="Enemy Wave" />
-  <br>
-  <br>
-  <img src="<img width="819" height="461" alt="Screenshot 2025-12-16 215528" src="https://github.com/user-attachments/assets/57ce3949-d99f-4795-a6a3-487f8df9d3e9" />
-" width="80%" alt="Vehicle Gameplay" />
+  <img width="815" height="460" alt="Screenshot 2025-12-16 215548" src="https://github.com/user-attachments/assets/b8cddee9-e41e-496e-8bbb-65d64bf41a4b" />
+  <img width="815" height="460" alt="Screenshot 2025-12-16 215548" src="https://github.com/user-attachments/assets/acb97b52-2111-4c52-a25b-1fc1e8eab3fd" />
+  <img width="819" height="461" alt="Screenshot 2025-12-16 215528" src="https://github.com/user-attachments/assets/57ce3949-d99f-4795-a6a3-487f8df9d3e9" />
+  <img width="819" height="461" alt="Screenshot 2025-12-16 215528" src="https://github.com/user-attachments/assets/e11ade75-a411-4be3-811f-b8583a5e74eb" />
 </div>
 
 ---
