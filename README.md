@@ -1,4 +1,4 @@
-# 🧟‍♂️ [Nama Game Kamu] (Project TDS)
+# 🧟‍♂️ [Final Project Game Cerdas] (Project TDS)
 
 ![Platform](https://img.shields.io/badge/Platform-PC%20(Windows)-blue)
 ![Engine](https://img.shields.io/badge/Engine-Unity%202021-black?logo=unity)
@@ -62,18 +62,9 @@ Berikut adalah rincian teknis yang digunakan dalam kode (C#):
     * Menggunakan `Physics.Raycast` untuk deteksi tembakan.
     * `LineRenderer` digunakan untuk visualisasi jejak peluru (tracer effect).
 3.  **UI Management**: Menggunakan Canvas Scaler untuk menampilkan HP bar dan skor.
+4.  **Finite State Machiine**: Digunakan untuk mengatur/mengontrol tingkah laku musuh.
+
 
 ---
 
-## 🔜 Rencana Pengembangan
-
-Jika proyek ini dilanjutkan, beberapa fitur yang akan ditambahkan:
-* [ ] Penerapan **Object Pooling** untuk peluru dan musuh (optimasi memori).
-* [ ] Menambahkan variasi senjata (Shotgun/Sniper).
-* [ ] Penambahan animasi karakter yang lebih halus (Blend Tree).
-
----
-
-### Credits
-* Course: Udemy - 3D Top Down Shooter by AlexDev.
-* Developed by: **[Nama Kamu/Gapar]**
+* Developed by: **[Danial Rajiv Syahidan, Gandrung Ghafar, Dhafin Kurniawan]**
