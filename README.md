@@ -62,7 +62,7 @@ Berikut adalah rincian teknis yang digunakan dalam kode (C#):
     * Menggunakan `Physics.Raycast` untuk deteksi tembakan.
     * `LineRenderer` digunakan untuk visualisasi jejak peluru (tracer effect).
 3.  **UI Management**: Menggunakan Canvas Scaler untuk menampilkan HP bar dan skor.
-4.  **Finite State Machiine**: Digunakan untuk mengatur/mengontrol tingkah laku musuh.
+4.  **Finite State Machine**: Digunakan untuk mengatur/mengontrol tingkah laku musuh.
 
 
 ---
